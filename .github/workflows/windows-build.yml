@@ -1,4 +1,4 @@
-# This file refers https://github.com/ndonkoHenri/flet-github-action-workflows/blob/947748022f0d967c02aa675b7312906fe256cff0/.github/workflows/windows-build.yml (MIT License, Copyright (c) 2024 Henri Ndonko)
+# (MIT License, Copyright (c) 2024 Henri Ndonko)
 
 
 name: Windows Build
